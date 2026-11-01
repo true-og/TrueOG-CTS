@@ -1,0 +1,9 @@
+[submodule "Sponge-CTS"]
+	path = Sponge-CTS
+	url = https://git.trueog.net/trueog/Sponge-CTS
+[submodule "SpongeAPI-CTS"]
+	path = SpongeAPI-CTS
+	url = https://git.trueog.net/trueog/SpongeAPI-CTS
+[submodule "VanillaGradle-CTS"]
+	path = VanillaGradle-CTS
+	url = https://git.trueog.net/trueog/VanillaGradle-CTS
