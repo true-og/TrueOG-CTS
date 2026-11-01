@@ -7,3 +7,6 @@
 [submodule "VanillaGradle-CTS"]
 	path = VanillaGradle-CTS
 	url = https://git.trueog.net/trueog/VanillaGradle-CTS
+[submodule "nexus"]
+	path = nexus
+	url = https://git.trueog.net/trueog/nexus
