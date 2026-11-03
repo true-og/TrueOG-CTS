@@ -34,3 +34,6 @@
 [submodule "cts-mod-list"]
 	path = cts-mod-list
 	url = https://git.trueog.net/trueog/cts-mod-list
+[submodule "fabric-installer"]
+	path = fabric-installer
+	url = https://git.trueog.net/trueog/fabric-installer
