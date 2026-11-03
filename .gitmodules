@@ -31,3 +31,6 @@
 [submodule "combat-test-installer"]
 	path = combat-test-installer
 	url = https://git.trueog.net/trueog/combat-test-installer
+[submodule "cts-mod-list"]
+	path = cts-mod-list
+	url = https://git.trueog.net/trueog/cts-mod-list
