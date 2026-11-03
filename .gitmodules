@@ -16,3 +16,6 @@
 [submodule "ViaCombatium"]
 	path = ViaCombatium
 	url = https://git.trueog.net/trueog/ViaCombatium
+[submodule "Gato-AntiCheat"]
+	path = Gato-AntiCheat
+	url = https://git.trueog.net/trueog/Gato-AntiCheat
