@@ -22,3 +22,6 @@
 [submodule "BlfScheduler"]
 	path = BlfScheduler
 	url = https://git.trueog.net/trueog/BlfScheduler
+[submodule "nexia-events"]
+	path = nexia-events
+	url = https://git.trueog.net/trueog/nexia-events
