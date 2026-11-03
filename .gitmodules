@@ -37,3 +37,6 @@
 [submodule "fabric-installer"]
 	path = fabric-installer
 	url = https://git.trueog.net/trueog/fabric-installer
+[submodule "Paper-8c"]
+	path = Paper-8c
+	url = https://git.trueog.net/trueog/Paper-8c
