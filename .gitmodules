@@ -13,3 +13,6 @@
 [submodule "metis"]
 	path = metis
 	url = https://git.trueog.net/trueog/metis
+[submodule "ViaCombatium"]
+	path = ViaCombatium
+	url = https://git.trueog.net/trueog/ViaCombatium
