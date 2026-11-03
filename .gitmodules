@@ -10,3 +10,6 @@
 [submodule "nexus"]
 	path = nexus
 	url = https://git.trueog.net/trueog/nexus
+[submodule "metis"]
+	path = metis
+	url = https://git.trueog.net/trueog/metis
