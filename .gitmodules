@@ -25,3 +25,6 @@
 [submodule "nexia-events"]
 	path = nexia-events
 	url = https://git.trueog.net/trueog/nexia-events
+[submodule "Nexia-Mod"]
+	path = Nexia-Mod
+	url = https://git.trueog.net/trueog/Nexia-Mod
